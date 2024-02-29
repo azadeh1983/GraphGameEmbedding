@@ -1,4 +1,4 @@
-# GraphGameEmbedding based on Graph Game Embedding 
+# GraphGameEmbedding based on Graph Game Embedding Paper
 graph game embedding by GCN
 
 Node classification(semi-supervised)
